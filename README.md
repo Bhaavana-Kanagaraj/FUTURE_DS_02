@@ -89,10 +89,13 @@ Evaluation Metrics:
 
 ---
 
-## Reports
 
-Detailed report available in:
-reports/final_report.md
+## Final Project Report
+
+Detailed analysis report available here:
+
+[View Final Report](reports/final_report.md)
+
 
 ---
 
